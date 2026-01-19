@@ -20,7 +20,7 @@ You must copy the game files to your SD Card exactly like this image below.
 **📂 SD Card Structure:**
 
 \[SD\_Card\_Root\]  
- ├── main.js                \<-- Copy code from fishing\_legend.js here  
+ ├── main.js                \<-- RENAME your chosen version to this\!  
  └── FishingLegendDB/       \<-- Copy this entire folder from the repo  
       ├── fish.json  
       ├── rod.json  
@@ -29,8 +29,11 @@ You must copy the game files to your SD Card exactly like this image below.
 
 1. **Download** the /FishingLegendDB folder from this repository.  
 2. **Paste** the folder into the main (root) directory of your SD Card.  
-3. **Copy** the game code (fishing\_legend.js) and save it as main.js (or your firmware's default app name) on the SD Card.  
-4. **Insert** the SD Card into your T-Embed.
+3. **⚔️ CHOOSE YOUR DIFFICULTY:**  
+   * **Option A (Original)**: Copy fishing\_legend.js. Balanced economy, good rewards.  
+   * **Option B (Hardcore)**: Copy fishing\_legend\_hardcore.js. Lower sell prices, harder grind\!  
+4. **Copy & Rename**: Save your chosen file as main.js (or your firmware's default app name) on the SD Card.  
+5. **Insert** the SD Card into your T-Embed.
 
 ### **3\. Play\!**
 
@@ -93,7 +96,6 @@ Your Fishing Rod gets damaged over time. **Don't fix it immediately\!**
 **"Game is not saving\!"**
 
 * Did you create the folder /FishingLegendDB on the SD Card?  
-
 * Is your SD Card formatted to FAT32?
 
 **"Screen looks wrong?"**
@@ -101,7 +103,3 @@ Your Fishing Rod gets damaged over time. **Don't fix it immediately\!**
 * This game is made for T-Embed resolution.
 
 *Happy Fishing\!* 🎣
-
-
-Github : metalgalz
-NOT FOR SALE, THIS IS FREE
