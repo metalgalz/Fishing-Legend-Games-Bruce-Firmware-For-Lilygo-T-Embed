@@ -36,7 +36,7 @@ function main() {
   var gameData = { money: 0, items: {}, rods: [], charms: [] }; 
 
   // --- SELL PRICE BALANCING ---
-  var sellPrice = [20, 80, 650, 2500, 15000, 50000, 100000];
+  var sellPrice = [20, 80, 550, 2500, 10000, 50000, 170000];
 
   // --- COLOR PALETTE ---
   var cK=C(0,0,0), cW=C(255,255,255), cSea=C(0,0,100), cBar=C(255,200,0);
@@ -997,4 +997,3 @@ function main() {
   k.setLongPress(false);
 }
 main();
-
