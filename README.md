@@ -55,7 +55,7 @@ This game uses the **Dial (Knob)** on the right side of the T-Embed.
 
 ### **Step 1: Cast the Line 🎣**
 
-* Choose **Manual Or Automatic**
+* Choose **Manual Fishing or Automatic Fishing**
 * Wait for the bobber to move.  
 * Status: WAITING...
 
