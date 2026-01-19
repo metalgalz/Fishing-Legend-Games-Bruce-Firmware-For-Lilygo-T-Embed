@@ -7,7 +7,7 @@ Catch rare fish, upgrade your gear, and become a legend\!
 
 Follow these simple steps to play.
 
-### **1\. Prepare your Lilygo**
+### **1\. Prepare your Device**
 
 * **HIGHLY RECOMMENDED**: Use **Bruce Firmware** for the Lilygo T-Embed. This game is optimized to run smoothly on it.  
 * Alternatively, ensure your device has any firmware that supports **JavaScript** (XS/Moddable).  
