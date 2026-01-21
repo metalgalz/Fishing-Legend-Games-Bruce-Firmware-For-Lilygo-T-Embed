@@ -15,22 +15,22 @@ Follow these simple steps to play.
 
 ### **2\. Copy Files to SD Card (IMPORTANT\!)**
 
-You must copy the game files to your SD Card exactly like this image below.
+You must copy the game files to your SD Card exactly like the structure below.
 
 **📂 SD Card Structure:**
 
 \[SD\_Card\_Root\]  
- ├── fishing_legend.js                \<-- RENAME your chosen version to this\!  
- └── FishingLegendDB/                 \<-- Copy this entire folder from the repo  
-..      └── fish.json  
-..      └── rod.json  
-..      └── charm.json  
-..      └── money.json
-..      └── level.json
+ ├── fishing\_legend.js          \<-- RENAME your chosen version to this\!  
+ └── FishingLegendDB/           \<-- Copy this entire folder from the repo  
+      ├── fish.json  
+      ├── rod.json  
+      ├── charm.json  
+      ├── money.json  
+      └── level.json
 
 1. **Download** the /FishingLegendDB folder from this repository.  
 2. **Paste** the folder into the main (root) directory of your SD Card.  
-3. **Copy & Rename**: Save your chosen file as main.js (or your firmware's default app name) on the SD Card.  
+3. **Copy & Rename**: Save your chosen game file as fishing\_legend.js (or main.js depending on your setup) on the SD Card root.  
 4. **Insert** the SD Card into your T-Embed.
 
 ### **3\. Play\!**
@@ -43,19 +43,20 @@ You must copy the game files to your SD Card exactly like this image below.
 
 This game uses the **Dial (Knob)** on the right side of the T-Embed.
 
-| Action | Icon | Menu | Fishing |  
-| Click Dial | 🔘 | Select / OK | Cast Line / Reel In |  
-| Rotate Right | ↻ | Move Down | Switch to Auto Mode |  
-| Rotate Left | ↺ | Move Up | Switch to Manual Mode |  
-| Side Button | 🔙 | Back / Exit | Cancel / Quit |
+| Action | Icon | Menu Function | Fishing Function |
+| :---- | :---- | :---- | :---- |
+| **Click Dial** | 🔘 | Select / OK | Cast Line / Reel In |
+| **Rotate Right** | ↻ | Move Down | Switch to **Auto Mode** |
+| **Rotate Left** | ↺ | Move Up | Switch to **Manual Mode** |
+| **Side Button** | 🔙 | Back / Exit | Cancel / Quit |
 
 ## **📖 How to Play**
 
 ### **Step 1: Cast the Line 🎣**
 
-* Choose **Manual/Auto/Menu**  
+* Choose **Manual/Auto/Menu** using the dial.  
 * Wait for the bobber to move.  
-* Status: WAITING...
+* Status: **WAITING...**
 
 ### **Step 2: The Bite ❗️**
 
@@ -70,36 +71,41 @@ This game uses the **Dial (Knob)** on the right side of the T-Embed.
 
 ## **🌟 Exclusive Features (New Update 2026-01-21)**
 
-⚔️ RPG Leveling System
-Gain EXP: Every catch grants EXP based on Rarity and Price.
-Level Up: Fill the blue bar at the bottom to level up.
-Milestone Rewards: The game automatically grants you FREE RODS when you reach specific levels:
-* Lvl 10: 10+ Rod
-* Lvl 20: 20+ Rod
-* Lvl 40: 40+ Rod
-* Lvl 60: 60+ Rod
+### **⚔️ RPG Leveling System**
 
-**🎣 Smart Inventory & Auto-Equip**
-* Spare Rod System: If you have multiple of the same rod (e.g., "Bamboo Rod x5"), breaking one will automatically use a spare without equipping a new one.
-* Auto-Equip: If your last rod breaks completely, the game intelligently equips the next best rod in your inventory.
-* Sell All: Quickly sell all your caught fish at the market to get rich.
+* **Gain EXP**: Every catch grants EXP based on Rarity and Price.  
+* **Level Up**: Fill the blue bar at the bottom to level up.  
+* **Milestone Rewards**: The game automatically grants you **FREE RODS** when you reach specific levels:  
+  * **Lvl 10**: 10+ Rod  
+  * **Lvl 20**: 20+ Rod  
+  * **Lvl 40**: 40+ Rod  
+  * **Lvl 60**: 60+ Rod
 
-**🧿 Charms System**
-* Buy Charms in the Shop to boost your stats temporarily!
-* Charms: Consumable items that increase your Luck.
-* Durability: Charms have durability just like rods.
-* Toggle: You can turn Charms ON/OFF in the Inventory.
+### **🎣 Smart Inventory & Auto-Equip**
 
-**🌦️ Dynamic Living World**
+* **Spare Rod System**: If you have multiple of the same rod (e.g., "Bamboo Rod x5"), breaking one will automatically use a spare without equipping a new one.  
+* **Auto-Equip**: If your last rod breaks completely, the game intelligently equips the next best rod in your inventory.  
+* **Sell All**: Quickly sell all your caught fish at the market to get rich.
+
+### **🧿 Charms System**
+
+* **Boost Stats**: Buy Charms in the Shop to boost your stats temporarily\!  
+* **Luck**: Consumable items that increase your Luck.  
+* **Durability**: Charms have durability just like rods.  
+* **Toggle**: You can turn Charms **ON/OFF** in the Inventory.
+
+### **🌦️ Dynamic Living World**
+
 The game features a fully simulated environment that changes as you play:
-* Day & Night Cycle: Watch the sky change from sunrise, to bright day, sunset, and starry night.
-* Dynamic Weather: Random Rain Storms occur every few days.
-* Effect: Rain changes the sky color and adds particle effects.
-* Alive Background: Moving clouds, birds, passing ships, islands, and jumping fish.
+
+* **Day & Night Cycle**: Watch the sky change from sunrise, to bright day, sunset, and starry night.  
+* **Dynamic Weather**: Random **Rain Storms** occur every few days.  
+* **Effect**: Rain changes the sky color and adds particle effects.  
+* **Alive Background**: Moving clouds, birds, passing ships, islands, and jumping fish.
 
 ## **⚔️ Game Secrets & Tips**
 
-### **🌈 The "Pity" System (Rainbow Bobber)**
+### **🌈 The "Pity" System (Durability Luck)**
 
 Your Fishing Rod gets damaged over time. **Don't fix it immediately\!**
 
@@ -108,19 +114,22 @@ Your Fishing Rod gets damaged over time. **Don't fix it immediately\!**
 
 **Pro Tip:** Use a broken rod to catch the rarest fish (Mythic/Secret)\!
 
-## **📈 Economy Tips**
-Level Requirements: Some powerful rods in the shop require a specific Player Level to buy.
-Inflation: As you level up, fish give more EXP, but high-tier rods cost millions. Save your money!
+### **📈 Economy Tips**
+
+* **Level Requirements**: Some powerful rods in the shop require a specific Player Level to buy.  
+* **Inflation**: As you level up, fish give more EXP, but high-tier rods cost millions. Save your money\!
 
 ### **💎 Rarity Colors**
 
-* ⚪ **Common** (Gray) \- Cheap  
-* 🟢 **Uncommon** (Green)  
-* 🔵 **Rare** (Blue)  
-* 🟣 **Epic** (Purple)  
-* 🟠 **Legend** (Orange)  
-* 🔴 **Mythic** (Red) \- BOSS  
-* 💎 **Secret** (Cyan) \- ???
+| Color | Rarity | Value |
+| :---- | :---- | :---- |
+| ⚪ Gray | **Common** | $ |
+| 🟢 Green | **Uncommon** | $$ |
+| 🔵 Blue | **Rare** | $$$ |
+| 🟣 Purple | **Epic** | $$$$ |
+| 🟠 Orange | **Legend** | $$$$$ |
+| 🔴 Red | **Mythic** | **BOSS** |
+| 💎 Cyan | **Secret** | **???** |
 
 ## **❓ Troubleshooting**
 
@@ -129,7 +138,8 @@ Inflation: As you level up, fish give more EXP, but high-tier rods cost millions
 * Did you create the folder /FishingLegendDB on the SD Card?  
 * Is your SD Card formatted to FAT32?
 
-**"My progress is gone!"**
+**"My progress is gone\!"**
+
 * Check if the /FishingLegendDB folder exists on the SD Card. The game needs permission to write JSON files there.
 
 **"Screen looks wrong?"**
@@ -137,7 +147,3 @@ Inflation: As you level up, fish give more EXP, but high-tier rods cost millions
 * This game is made for T-Embed resolution.
 
 *Happy Fishing\!* 🎣
-
-![alt text](https://github.com/metalgalz/Fishing-Legend-Games-Bruce-Firmware-For-Lilygo-T-Embed/blob/main/Pictures/LILYGO%20T-EMBED%20C1101%20PLUS.png?raw=true)
-
-![alt text](https://github.com/metalgalz/Fishing-Legend-Games-Bruce-Firmware-For-Lilygo-T-Embed/blob/main/Pictures/LILYGO%20T-Deck.png?raw=true)
