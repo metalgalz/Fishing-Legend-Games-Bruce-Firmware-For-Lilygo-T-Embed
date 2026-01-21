@@ -22,11 +22,11 @@ You must copy the game files to your SD Card exactly like the structure below.
 \[SD\_Card\_Root\]  
  ├── fishing\_legend.js          \<-- RENAME your chosen version to this\!  
  └── FishingLegendDB/           \<-- Copy this entire folder from the repo  
-      ├── fish.json  
-      ├── rod.json  
-      ├── charm.json  
-      ├── money.json  
-      └── level.json
+...      ├── fish.json  
+...      ├── rod.json  
+...      ├── charm.json  
+...      ├── money.json  
+...      └── level.json
 
 1. **Download** the /FishingLegendDB folder from this repository.  
 2. **Paste** the folder into the main (root) directory of your SD Card.  
@@ -147,3 +147,6 @@ Your Fishing Rod gets damaged over time. **Don't fix it immediately\!**
 * This game is made for T-Embed resolution.
 
 *Happy Fishing\!* 🎣
+
+![alt text](https://github.com/metalgalz/Fishing-Legend-Games-Bruce-Firmware-For-Lilygo-T-Embed/blob/main/Pictures/LILYGO%20T-EMBED%20C1101%20PLUS.png?raw=true)
+![alt text](https://github.com/metalgalz/Fishing-Legend-Games-Bruce-Firmware-For-Lilygo-T-Embed/blob/main/Pictures/LILYGO%20T-Deck.png?raw=true)
