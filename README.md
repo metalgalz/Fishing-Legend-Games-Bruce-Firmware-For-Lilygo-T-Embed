@@ -148,5 +148,10 @@ Your Fishing Rod gets damaged over time. **Don't fix it immediately\!**
 
 *Happy Fishing\!* 🎣
 
+## **📜 License**
+This project is open-source. Feel free to use and modify it according to your needs.
+Made with ❤️ using JavaScript for the Bruce Firmware Community.
+Github / Discord by : metalgalz
+
 ![alt text](https://github.com/metalgalz/Fishing-Legend-Games-Bruce-Firmware-For-Lilygo-T-Embed/blob/main/Pictures/LILYGO%20T-EMBED%20C1101%20PLUS.png?raw=true)
 ![alt text](https://github.com/metalgalz/Fishing-Legend-Games-Bruce-Firmware-For-Lilygo-T-Embed/blob/main/Pictures/LILYGO%20T-Deck.png?raw=true)
