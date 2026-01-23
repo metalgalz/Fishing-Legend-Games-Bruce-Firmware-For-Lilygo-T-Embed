@@ -20,7 +20,7 @@ You must copy the game files to your SD Card exactly like the structure below.
 **📂 SD Card Structure:**
 
 \[SD\_Card\_Root\]  
- ├── fishing\_legend.js          \<-- This is main js for open game!  
+ ├── BruceGames/fishing\_legend.js          \<-- This is main js for open game!  
  └── FishingLegendDB/           \<-- Copy this entire folder from the repo  
 ...      ├── fish.json  
 ...      ├── rod.json  
